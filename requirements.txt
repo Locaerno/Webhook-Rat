@@ -1,0 +1,7 @@
+os
+fade==1.0.0
+discord-webhook
+pyautogui
+pyscreenshot
+opencv-python
+requests
